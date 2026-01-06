@@ -1,0 +1,21 @@
+.heading{
+    color: red;
+}
+
+.img{
+    width: 200px;
+}
+
+.maindiv{
+    border: 1px solid #cccc;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 1px 0px 3px 2px #cccc;
+    margin: 10px;
+}
+
+.rootdiv {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
